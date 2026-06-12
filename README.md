@@ -44,37 +44,35 @@ Currently learning and improving my skills in Python, Java, and C++.
 Exploring GUI development, databases, and software project development.
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 📌 Task Manager Desktop App
 
 A desktop productivity application built using **Python, Tkinter, and SQLite**.
 
 Features:
-- ✅ Add, edit, and delete tasks
-- ✅ Priority and category management
-- ✅ Due date tracking
-- ✅ Overdue task highlighting
-- ✅ Search and filtering
-- ✅ Desktop notifications
-- ✅ CSV export
-- ✅ SQLite database storage
-- ✅ Windows executable support
+- ✅ Task creation and management
+- 🎯 Priority and category system
+- 📅 Due date tracking
+- 🔔 Desktop notifications
+- 🔍 Search and filtering
+- 📤 CSV export
+- 💾 SQLite database storage
 
-🔗 Project:
+🔗 Project Repository:  
 https://github.com/dharshini-code10/task-manager-desktop-app
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshini-code10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshini-code10&show_icons=true)
 
 ---
 
 ## 📫 Connect With Me
 
-GitHub:
+GitHub:  
 https://github.com/dharshini-code10
 
 ---
