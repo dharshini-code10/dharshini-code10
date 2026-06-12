@@ -50,7 +50,7 @@ Exploring GUI development, databases, and software project development.
 
 A desktop productivity application built using **Python, Tkinter, and SQLite**.
 
-Features:
+### Features:
 - ✅ Task creation and management
 - 🎯 Priority and category system
 - 📅 Due date tracking
