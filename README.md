@@ -40,7 +40,7 @@ Building practical software projects and improving my programming skills.
 
 </p>
 
-Currently learning and improving my skills in Python, Java, and C++.
+Currently learning and improving my skills in Python, Java, and C++.  
 Exploring GUI development, databases, and software project development.
 ---
 
