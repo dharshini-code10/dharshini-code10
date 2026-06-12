@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi, I'm Divyadharshini 👋
 
-<!--
-**dharshini-code10/dharshini-code10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | Desktop Application Developer  
+🚀 Passionate about building practical software projects and improving my programming skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🌱 Currently learning Python, Java, and software development concepts
+- 🛠️ Interested in Desktop Applications, GUI Development, and Problem Solving
+- 📚 Exploring new technologies and building projects to improve my skills
+- 🎯 Goal: Become a skilled software developer
+
+---
+
+## 🛠️ Skills
+
+### Programming Languages
+- Python
+- Java
+- C++
+
+### Technologies & Tools
+- Tkinter
+- SQLite
+- Git & GitHub
+- PyInstaller
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 📌 Task Manager Desktop App
+
+A desktop productivity application built using **Python, Tkinter, and SQLite**.
+
+Features:
+- ✅ Add, edit, and delete tasks
+- ✅ Priority and category management
+- ✅ Due date tracking
+- ✅ Overdue task highlighting
+- ✅ Search and filtering
+- ✅ Desktop notifications
+- ✅ CSV export
+- ✅ SQLite database storage
+- ✅ Windows executable support
+
+🔗 Project:
+https://github.com/dharshini-code10/task-manager-desktop-app
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshini-code10&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/dharshini-code10
+
+---
+
+⭐ Thanks for visiting my profile!
