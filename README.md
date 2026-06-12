@@ -66,7 +66,7 @@ https://github.com/dharshini-code10/task-manager-desktop-app
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshini-code10&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharshini-code10&show_icons=true&theme=tokyonight)
 
 ---
 
